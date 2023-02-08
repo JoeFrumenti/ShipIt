@@ -1,0 +1,17 @@
+{
+    "Coment": {
+        "1/3": "This file was generated with the addons Blender for UnrealEngine : https://github.com/xavier150/Blender-For-UnrealEngine-Addons",
+        "2/3": "It used for import into Unreal Engine all the assets of type StaticMesh, SkeletalMesh, Animation, Pose, Camera, [...]",
+        "3/3": "The script must be used in Unreal Engine Editor with Python plugins : https://docs.unrealengine.com/en-US/Engine/Editor/ScriptingAndAutomation/Python"
+    },
+    "DefaultSettings": {},
+    "LevelOfDetail": {},
+    "Sockets": null,
+    "vertex_color_import_option": "IGNORE",
+    "vertex_override_color": [
+        1.0,
+        1.0,
+        1.0
+    ],
+    "preview_import_path": "SM_tredmil1.fbx"
+}
