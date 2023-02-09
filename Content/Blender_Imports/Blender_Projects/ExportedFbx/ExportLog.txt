@@ -1,0 +1,36 @@
+This file was generated with the addons Blender for UnrealEngine : https://github.com/xavier150/Blender-For-UnrealEngine-Addons
+
+8 StaticMesh(s) | 0 SkeletalMesh(s) | 0 Alembic(s) | 0 Animation(s) | 0 Camera(s) | 0 Other(s)
+
+gym_mat2 [StaticMesh] EXPORTED IN 0.03s
+//ExportedFbx\StaticMesh\SM_gym_mat2.fbx
+//ExportedFbx\StaticMesh\SM_gym_mat2_AdditionalTrack.json
+
+barBell1 [StaticMesh] EXPORTED IN 0.03s
+//ExportedFbx\StaticMesh\SM_barBell1.fbx
+//ExportedFbx\StaticMesh\SM_barBell1_AdditionalTrack.json
+
+Rat.001 [StaticMesh] EXPORTED IN 0.03s
+//ExportedFbx\StaticMesh\SM_Rat.001.fbx
+//ExportedFbx\StaticMesh\SM_Rat.001_AdditionalTrack.json
+
+gym_mat2.001 [StaticMesh] EXPORTED IN 0.03s
+//ExportedFbx\StaticMesh\SM_gym_mat2.001.fbx
+//ExportedFbx\StaticMesh\SM_gym_mat2.001_AdditionalTrack.json
+
+gym_mat2.002 [StaticMesh] EXPORTED IN 0.03s
+//ExportedFbx\StaticMesh\SM_gym_mat2.002.fbx
+//ExportedFbx\StaticMesh\SM_gym_mat2.002_AdditionalTrack.json
+
+tredmil1 [StaticMesh] EXPORTED IN 0.03s
+//ExportedFbx\StaticMesh\SM_tredmil1.fbx
+//ExportedFbx\StaticMesh\SM_tredmil1_AdditionalTrack.json
+
+barBell.001 [StaticMesh] EXPORTED IN 0.03s
+//ExportedFbx\StaticMesh\SM_barBell.001.fbx
+//ExportedFbx\StaticMesh\SM_barBell.001_AdditionalTrack.json
+
+benchPress1.001 [StaticMesh] EXPORTED IN 0.06s
+//ExportedFbx\StaticMesh\SM_benchPress1.001.fbx
+//ExportedFbx\StaticMesh\SM_benchPress1.001_AdditionalTrack.json
+
